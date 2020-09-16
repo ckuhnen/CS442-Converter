@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Converter</string>
+    <string name="convert_title">Conversion:</string>
+    <string name="m_to_k">Miles to Kilometers</string>
+    <string name="k_to_m">Kilometers to Miles</string>
+    <string name="m_input">Miles:</string>
+    <string name="k_input">Kilometers:</string>
+    <string name="convert_button">CONVERT</string>
+    <string name="hint">enter a value</string>
+    <string name="conversion_history">Conversion History</string>
+    <string name="clear">CLEAR</string>
+</resources>
